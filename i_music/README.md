@@ -12,7 +12,10 @@ features of this project ;
 - Audio player
 - Application Arch.
 - 3rd party API's
-# - Async calls
-# - State Management
+- # Async calls
+- # State Management
 - Deployment (size of the project)
 - config file's
+
+
+PHARMA5
